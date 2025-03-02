@@ -24,7 +24,7 @@ This project uses OpenCV and MediaPipe to recognize hand gestures in real-time f
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/hand-gesture-recognition.git
+    git clone https://github.com/ManasaMusunuri/Project-GestureCam.git
     cd hand-gesture-recognition
     ```
 
